@@ -32,7 +32,7 @@
     "axios": "^0.19.2",
     "camelcase-keys": "^6.2.2",
     "cheerio": "^1.0.0-rc.3",
-    "dotenv": "^8.2.0",
+    "dotenv": "^8.6.0",
     "parse-duration": "^0.4.2",
     "serialize-javascript": "^3.0.0",
     "superagent": "^5.2.2"
